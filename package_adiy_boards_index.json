@@ -1,0 +1,29 @@
+{
+  "packages": [
+    {
+      "name": "ADIY avr compatible boards",
+      "maintainer": "adiy.in",
+      "websiteURL": "https://github.com/Adiy-Github/ADIY-Arduino-Boards",
+      "email": "support@adiy.in",
+      "help": {
+        "online": "adiy.in"
+      },
+      "platforms": [
+        {
+          "name": "ADIY Arduino Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "lgt8fx",
+          "url": "https://github.com/Adiy-Github/ADIY-Arduino-Board-Index/raw/main/Boards/ADIY_Arduino_Boards.zip",
+          "archiveFileName": "ADIY_Arduino_Boards.zip",
+          "checksum": "SHA-256:F196679AE727A05560B08EA9D804915314DD7B553DBA0985187D72871B517395",
+          "size": "7339248",
+          "boards": [
+            {"name": "ADIY Uno"}
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
